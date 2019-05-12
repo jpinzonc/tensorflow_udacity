@@ -1,1 +1,3 @@
-# tensorflow_udacity
+# Tensorflow Udacity's Free Course
+
+Notebooks from the course. 
